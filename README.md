@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="https://forthebadge.com/images/badges/open-source.svg">
+    <img src="https://github.com/Nekrova/.github/blob/main/Nekrova_v3.png?raw=true">
   </p>
 <p align="center">
   <br>
